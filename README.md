@@ -1,2 +1,2 @@
 # weather
-display the weather according user preference 
+display the weather according to user preference 
